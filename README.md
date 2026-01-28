@@ -8,7 +8,7 @@ I focus on crafting smooth user experiences with clean, maintainable, and scalab
 ---
 
 ### 💼 About Me  
-- 🏢 Currently working as a **Flutter Developer** at **RS Catalyst** (7+ months)  
+- 🏢 Currently working as a **Flutter Developer** at **RS Catalyst** (2+ years)  
 - 🧠 Previously worked on projects for **Synergistic Tech Solutions (STS)** and **iPlexSoft**  
 - 💪 Experienced in developing production-level apps used by real businesses  
 - ⚙️ Skilled in app architecture, state management, API integrations, and Firebase services  
