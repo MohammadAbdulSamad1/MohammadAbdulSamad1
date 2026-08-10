@@ -2,13 +2,13 @@
 
 🚀 **Flutter Developer | Mobile App Enthusiast | Problem Solver**
 
-I’m a passionate **Flutter Developer** with **2+ years of experience** in building modern, responsive, and high-performance mobile applications for **iOS**, **Android**, and **Windows** platforms.  
+I’m a passionate **Flutter Developer** with **3+ years of experience** in building modern, responsive, and high-performance mobile applications for **iOS**, **Android**, and **Windows** platforms.  
 I focus on crafting smooth user experiences with clean, maintainable, and scalable code.
 
 ---
 
 ### 💼 About Me  
-- 🏢 Currently working as a **Flutter Developer** at **RS Catalyst** (2+ years)  
+- 🏢 Currently working as a **Flutter Developer** at **Skyware IT Solutions** (2+ years)  
 - 🧠 Previously worked on projects for **Synergistic Tech Solutions (STS)** and **iPlexSoft**  
 - 💪 Experienced in developing production-level apps used by real businesses  
 - ⚙️ Skilled in app architecture, state management, API integrations, and Firebase services  
