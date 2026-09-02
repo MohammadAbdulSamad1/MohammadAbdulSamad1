@@ -51,3 +51,9 @@ I focus on crafting smooth user experiences with clean, maintainable, and scalab
 MohammadAbdulSamad1/MohammadAbdulSamad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+Device token: ae421191-10aa-463c-aca4-025a39f18783
+Username: cashier_b51bf1
+Password: zLFhgAQ8ARmN
