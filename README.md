@@ -54,6 +54,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Device token: ae421191-10aa-463c-aca4-025a39f18783
+Device token: 9be642f7-d4ee-497f-b0b8-e7b75ad290ac
+
 Username: cashier_b51bf1
-Password: zLFhgAQ8ARmN
+
+Password: jVdM!CKpxTuK
