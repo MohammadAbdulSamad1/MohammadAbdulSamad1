@@ -52,10 +52,3 @@ MohammadAbdulSamad1/MohammadAbdulSamad1 is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-Device token: 9be642f7-d4ee-497f-b0b8-e7b75ad290ac
-
-Username: cashier_b51bf1
-
-Password: jVdM!CKpxTuK
